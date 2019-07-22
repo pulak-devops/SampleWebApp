@@ -1,4 +1,4 @@
-package math;
+ackage math;
 
 public class Calculator {
   
